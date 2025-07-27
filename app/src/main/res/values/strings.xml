@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">BrunchStory</string>
+
+    <string name="email">이메일</string>
+    <string name="password">비밀번호</string>
+    <string name="login">로그인</string>
+    <string name="signUp">회원가입</string>
+    <string name="nickName">별명</string>
+
+    <string name="newest_first">최신순</string>
+    <string name="most_liked_first">라이킷순</string>
+    <string name="accuracy_first">정확도</string>
+    <string name="newest">최신</string>
+
+    <string name="home">홈</string>
+    <string name="search">발견</string>
+    <string name="write">글쓰기</string>
+    <string name="myBox">내 서랍</string>
+
+    <string name="title">제목</string>
+    <string name="sub_title">소제목</string>
+
+    <string name="interest_author">관심 작가</string>
+    <string name="recently_viewed">최근 본</string>
+    <string name="interest_post">관심 글</string>
+    <string name="my_brunche">내브런치</string>
+
+    <string name="subscriber">구독자</string>
+    <string name="interested_write">관심작가</string>
+    <string name="subscribed">구독중</string>
+    <string name="subscribe">구독</string>
+
+    <string name="comment">댓글</string>
+
+    <string name="sign_greeting_primary">브런치 작가로 데뷔하세요</string>
+    <string name="sign_greeting_secondary">진설한 에세이부터 업계 전문 지식까지,\n당신의 이야기를 세상에 선보이세요.</string>
+    <string name="sign_kakao">카카오계정으로 로그인</string>
+    <string name="sign_help_kakao">내 브런치스토리의 카카오계정을 모르겠어요.</string>
+    <string name="sign_help_sns">페이스북·트위터로만 로그인 했었나요?</string>
+    <string name="sign_save_login_info">로그인 정보 저장</string>
+    <string name="sign_password_check">비밀번호 확인</string>
+    <string name="sign_check_duplicate">중복확인</string>
+    <string name="sign_nickname_available">사용할 수 있는 별명입니다.</string>
+    <string name="sign_email_available">사용할 수 있는 별명입니다.</string>
+    <string name="sign_password_strength_message">대소문자, 숫자 조합 8자 이상이어야 합니다.</string>
+
+    <string name="home_start">시작하기</string>
+    <string name="home_weekly_serial">요일별 연재</string>
+    <string name="home_brunch_original_serial">브런치책 오리지널 연재를 만나 보세요.</string>
+    <string name="home_monday">월</string>
+    <string name="home_tuesday">화</string>
+    <string name="home_wednesday">수</string>
+    <string name="home_thursday">목</string>
+    <string name="home_friday">금</string>
+    <string name="home_saturday">토</string>
+    <string name="home_sunday">일</string>
+
+    <string name="home_view_all_serials">연재 작품 전체 보기</string>
+    <string name="home_todays_pick">Today is Pick</string>
+    <string name="home_trending_brunch">요즘 뜨는 브런치</string>
+    <string name="home_view_original_brunchbook">원작 브런치북 보기</string>
+    <string name="home_today_writer">오늘의 작가</string>
+
+    <string name="write_placeholder_content">내용을 입력하세요</string>
+
+    <string name="search_input">검색어 입력</string>
+    <string name="search_recommend_writer_keyword">추천 작가 키워드</string>
+    <string name="search_recent_search_queries">최근 검색어</string>
+    <string name="search_writer_result">작가 검색 결과</string>
+    <string name="search_posts_result">글 검색 결과</string>
+    <string name="search_count">건</string>
+    <string name="search_empty_result">검색 결과가 없습니다.</string>
+
+    <string name="error_data_loading">데이터 로딩 오류 발생</string>
+
+</resources>
